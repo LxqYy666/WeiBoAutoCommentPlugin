@@ -1,4 +1,4 @@
-# WeiBoAutoCommentPlugin
+# WeiBo/TencentVideoAutoCommentPlugin
 这是一个微博/腾讯视频的自动评论/弹幕插件，目前只支持文字
 效果如下图 使用此插件时需进入微博详情页<br>
 
